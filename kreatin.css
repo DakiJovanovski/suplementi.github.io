@@ -1,0 +1,32 @@
+body
+{
+    background-image: url(ProteinPozadina.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+tr, th 
+{
+    border: solid black 2px ;background-color: rgb(150, 154, 151); color: white;
+    border-radius: 7px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+tr, th:hover{transform: scale(1.05);}
+
+table
+{
+    width: 40%;
+    
+}
+
+.link:hover {color:rgb(212, 255, 0)}
+.link {color:white; text-decoration: none;}
+
+h1
+{
+     color: wheat;
+    letter-spacing: 8px; font-size: 220%;
+}
+
+.img {transform: scale(1);}

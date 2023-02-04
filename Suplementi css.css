@@ -1,0 +1,31 @@
+body
+{
+    background-image: url(pozadina1.jpg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+tr, th 
+{
+    border: solid black 2px ;background-color: rgb(150, 154, 151); color: white;
+    border-radius: 7px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+tr, th:hover{transform: scale(1.05);}
+
+table
+{
+    width: 30%;
+    margin-left: 180px;
+}
+
+.link:hover {color:rgb(212, 255, 0)}
+.link {color:white; text-decoration: none;}
+
+h1
+{
+    margin-top: 320px; color: wheat; margin-left: 250px;
+    letter-spacing: 8px; font-size: 220%;
+}
+
+
